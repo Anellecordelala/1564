@@ -1,0 +1,53 @@
+D:\Users\1213-7\Documents\2-ИСП\Разработка кода информационных систем\Модина\PR_7.2\bin\Debug\PR_7.2.exe.config
+D:\Users\1213-7\Documents\2-ИСП\Разработка кода информационных систем\Модина\PR_7.2\bin\Debug\PR_7.2.exe
+D:\Users\1213-7\Documents\2-ИСП\Разработка кода информационных систем\Модина\PR_7.2\bin\Debug\PR_7.2.pdb
+D:\Users\1213-7\Documents\2-ИСП\Разработка кода информационных систем\Модина\PR_7.2\obj\Debug\PR_7.2.csproj.AssemblyReference.cache
+D:\Users\1213-7\Documents\2-ИСП\Разработка кода информационных систем\Модина\PR_7.2\obj\Debug\MainWindow.g.cs
+D:\Users\1213-7\Documents\2-ИСП\Разработка кода информационных систем\Модина\PR_7.2\obj\Debug\App.g.cs
+D:\Users\1213-7\Documents\2-ИСП\Разработка кода информационных систем\Модина\PR_7.2\obj\Debug\PR_7.2_MarkupCompile.cache
+D:\Users\1213-7\Documents\2-ИСП\Разработка кода информационных систем\Модина\PR_7.2\obj\Debug\PR_7.2_MarkupCompile.lref
+D:\Users\1213-7\Documents\2-ИСП\Разработка кода информационных систем\Модина\PR_7.2\obj\Debug\MainWindow.baml
+D:\Users\1213-7\Documents\2-ИСП\Разработка кода информационных систем\Модина\PR_7.2\obj\Debug\PR_7.2.g.resources
+D:\Users\1213-7\Documents\2-ИСП\Разработка кода информационных систем\Модина\PR_7.2\obj\Debug\PR_7._2.Properties.Resources.resources
+D:\Users\1213-7\Documents\2-ИСП\Разработка кода информационных систем\Модина\PR_7.2\obj\Debug\PR_7.2.csproj.GenerateResource.cache
+D:\Users\1213-7\Documents\2-ИСП\Разработка кода информационных систем\Модина\PR_7.2\obj\Debug\PR_7.2.csproj.CoreCompileInputs.cache
+D:\Users\1213-7\Documents\2-ИСП\Разработка кода информационных систем\Модина\PR_7.2\obj\Debug\PR_7.2.exe
+D:\Users\1213-7\Documents\2-ИСП\Разработка кода информационных систем\Модина\PR_7.2\obj\Debug\PR_7.2.pdb
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\Code2-main\PR_7.2\bin\Debug\PR_7.2.exe.config
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\Code2-main\PR_7.2\bin\Debug\PR_7.2.exe
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\Code2-main\PR_7.2\bin\Debug\PR_7.2.pdb
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\Code2-main\PR_7.2\obj\Debug\PR_7.2.csproj.AssemblyReference.cache
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\Code2-main\PR_7.2\obj\Debug\InputWindow.g.cs
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\Code2-main\PR_7.2\obj\Debug\MainWindow.g.cs
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\Code2-main\PR_7.2\obj\Debug\App.g.cs
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\Code2-main\PR_7.2\obj\Debug\PR_7.2_MarkupCompile.cache
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\Code2-main\PR_7.2\obj\Debug\PR_7.2_MarkupCompile.lref
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\Code2-main\PR_7.2\obj\Debug\MainWindow.baml
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\Code2-main\PR_7.2\obj\Debug\InputWindow.baml
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\Code2-main\PR_7.2\obj\Debug\PR_7.2.g.resources
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\Code2-main\PR_7.2\obj\Debug\PR_7._2.Properties.Resources.resources
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\Code2-main\PR_7.2\obj\Debug\PR_7.2.csproj.GenerateResource.cache
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\Code2-main\PR_7.2\obj\Debug\PR_7.2.csproj.CoreCompileInputs.cache
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\Code2-main\PR_7.2\obj\Debug\PR_7.2.exe
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\Code2-main\PR_7.2\obj\Debug\PR_7.2.pdb
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\Code2-main\PR_7.2\obj\Debug\WorkWindow.g.cs
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\Code2-main\PR_7.2\obj\Debug\WorkWindow.baml
+C:\Users\guena\Downloads\Code-main (2)\Code-main\PR_7.2\bin\Debug\PR_7.2.exe.config
+C:\Users\guena\Downloads\Code-main (2)\Code-main\PR_7.2\bin\Debug\PR_7.2.exe
+C:\Users\guena\Downloads\Code-main (2)\Code-main\PR_7.2\bin\Debug\PR_7.2.pdb
+C:\Users\guena\Downloads\Code-main (2)\Code-main\PR_7.2\obj\Debug\PR_7.2.csproj.AssemblyReference.cache
+C:\Users\guena\Downloads\Code-main (2)\Code-main\PR_7.2\obj\Debug\InputWindow.g.cs
+C:\Users\guena\Downloads\Code-main (2)\Code-main\PR_7.2\obj\Debug\MainWindow.g.cs
+C:\Users\guena\Downloads\Code-main (2)\Code-main\PR_7.2\obj\Debug\WorkWindow.g.cs
+C:\Users\guena\Downloads\Code-main (2)\Code-main\PR_7.2\obj\Debug\App.g.cs
+C:\Users\guena\Downloads\Code-main (2)\Code-main\PR_7.2\obj\Debug\PR_7.2_MarkupCompile.cache
+C:\Users\guena\Downloads\Code-main (2)\Code-main\PR_7.2\obj\Debug\PR_7.2_MarkupCompile.lref
+C:\Users\guena\Downloads\Code-main (2)\Code-main\PR_7.2\obj\Debug\InputWindow.baml
+C:\Users\guena\Downloads\Code-main (2)\Code-main\PR_7.2\obj\Debug\MainWindow.baml
+C:\Users\guena\Downloads\Code-main (2)\Code-main\PR_7.2\obj\Debug\WorkWindow.baml
+C:\Users\guena\Downloads\Code-main (2)\Code-main\PR_7.2\obj\Debug\PR_7.2.g.resources
+C:\Users\guena\Downloads\Code-main (2)\Code-main\PR_7.2\obj\Debug\PR_7._2.Properties.Resources.resources
+C:\Users\guena\Downloads\Code-main (2)\Code-main\PR_7.2\obj\Debug\PR_7.2.csproj.GenerateResource.cache
+C:\Users\guena\Downloads\Code-main (2)\Code-main\PR_7.2\obj\Debug\PR_7.2.csproj.CoreCompileInputs.cache
+C:\Users\guena\Downloads\Code-main (2)\Code-main\PR_7.2\obj\Debug\PR_7.2.exe
+C:\Users\guena\Downloads\Code-main (2)\Code-main\PR_7.2\obj\Debug\PR_7.2.pdb
