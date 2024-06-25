@@ -1,0 +1,31 @@
+﻿<Window x:Class="пр71.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:пр71"
+        mc:Ignorable="d"
+        Title="Мой WPF проект" Height="350" Width="500" Background="#FF2F92E7">
+    <Grid Margin="0,56,0,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" MinWidth="146"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <RadioButton x:Name="LeftRadioButton" Grid.Row="0" Margin="48,5,5,5" Checked="RadioButton_Checked" FontSize="18">Влево</RadioButton>
+        <RadioButton x:Name="RightRadioButton" Grid.Row="1" Margin="48,5,5,5" Checked="RadioButton_Checked" FontSize="18">Вправо</RadioButton>
+        <RadioButton x:Name="StopRadioButton" Grid.Row="2" Margin="48,5,5,5" Checked="RadioButton_Checked" FontSize="18">Стоп</RadioButton>
+        <RadioButton x:Name="MoveRadioButton" Grid.Row="3" Margin="48,5,5,5" Checked="RadioButton_Checked" FontSize="18">Движение</RadioButton>
+        <Button x:Name="Button" Grid.Row="4" Grid.Column="1" Margin="37,10,177,74" Click="Button_Click" FontSize="18">Кнопка</Button>
+        <Image HorizontalAlignment="Left" Height="21" Margin="20,0,0,0" VerticalAlignment="Center" Width="23" Source="/влево.png" RenderTransformOrigin="1.002,0.542"/>
+        <Image HorizontalAlignment="Left" Height="21" VerticalAlignment="Top" Width="23" Grid.Row="1" Margin="20,0,0,0" Source="/вправо1.jpg"/>
+        <Image HorizontalAlignment="Left" Height="21" VerticalAlignment="Top" Width="21" Grid.Row="2" Margin="20,0,0,0" Source="/стоп.png"/>
+        <Image HorizontalAlignment="Left" Height="21" VerticalAlignment="Center" Width="21" Grid.Row="3" Margin="21,0,0,0" Source="/движение.png"/>
+    </Grid>
+</Window>

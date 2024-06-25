@@ -1,0 +1,30 @@
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\пр71\bin\Debug\пр71.exe.config
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\пр71\bin\Debug\пр71.exe
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\пр71\bin\Debug\пр71.pdb
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\пр71\obj\Debug\пр71.csproj.AssemblyReference.cache
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\пр71\obj\Debug\MainWindow.g.cs
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\пр71\obj\Debug\App.g.cs
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\пр71\obj\Debug\пр71_MarkupCompile.cache
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\пр71\obj\Debug\пр71_MarkupCompile.lref
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\пр71\obj\Debug\MainWindow.baml
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\пр71\obj\Debug\пр71.g.resources
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\пр71\obj\Debug\пр71.Properties.Resources.resources
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\пр71\obj\Debug\пр71.csproj.GenerateResource.cache
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\пр71\obj\Debug\пр71.csproj.CoreCompileInputs.cache
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\пр71\obj\Debug\пр71.exe
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\пр71\obj\Debug\пр71.pdb
+D:\Downloads\-72-main\-72-main\пр71\bin\Debug\пр71.exe.config
+D:\Downloads\-72-main\-72-main\пр71\bin\Debug\пр71.exe
+D:\Downloads\-72-main\-72-main\пр71\bin\Debug\пр71.pdb
+D:\Downloads\-72-main\-72-main\пр71\obj\Debug\пр71.csproj.AssemblyReference.cache
+D:\Downloads\-72-main\-72-main\пр71\obj\Debug\MainWindow.g.cs
+D:\Downloads\-72-main\-72-main\пр71\obj\Debug\App.g.cs
+D:\Downloads\-72-main\-72-main\пр71\obj\Debug\пр71_MarkupCompile.cache
+D:\Downloads\-72-main\-72-main\пр71\obj\Debug\пр71_MarkupCompile.lref
+D:\Downloads\-72-main\-72-main\пр71\obj\Debug\MainWindow.baml
+D:\Downloads\-72-main\-72-main\пр71\obj\Debug\пр71.g.resources
+D:\Downloads\-72-main\-72-main\пр71\obj\Debug\пр71.Properties.Resources.resources
+D:\Downloads\-72-main\-72-main\пр71\obj\Debug\пр71.csproj.GenerateResource.cache
+D:\Downloads\-72-main\-72-main\пр71\obj\Debug\пр71.csproj.CoreCompileInputs.cache
+D:\Downloads\-72-main\-72-main\пр71\obj\Debug\пр71.exe
+D:\Downloads\-72-main\-72-main\пр71\obj\Debug\пр71.pdb
